@@ -1,0 +1,3 @@
+/home/yikouniao/test/CMakeFiles/edit_cache.dir
+/home/yikouniao/test/CMakeFiles/rebuild_cache.dir
+/home/yikouniao/test/CMakeFiles/Test.dir
